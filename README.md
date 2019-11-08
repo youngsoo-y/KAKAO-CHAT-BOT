@@ -3,9 +3,9 @@
 ## 1. 아이디어 및 목표
 
 ### 1-1 아이디어 
--
-### 1-2 목표
 - 
+### 1-2 목표
+- simple tutorial - using user account(not a normal chat bot) react to some keywords
 
 ## 2. 구조
 ### 2-1 전체 서버 구조
