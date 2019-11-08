@@ -11,7 +11,7 @@
 ### 2-1 전체 서버 구조
 
 ## 3. To do list
-- [] Example
+- [ ] Example
 
 ## 4. Commit Rules
 - NEW : 새로운 기능 및 코드 추가 (New)
